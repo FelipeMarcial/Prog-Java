@@ -15,7 +15,7 @@
     JavaScript, HTML e CSS são essenciais. O Type Script é um upgrade para o JavaScript.
 
 ### Type Script
-    A principal diferença é o fato do TypeScript ser uma linguagem tipada. Assim, ele aponta erros durante o desenvolvimento da aplicação enquanto o JavaScript não, portanto, você teria que esperar a compilação para saber.
+A principal diferença é o fato do TypeScript ser uma linguagem tipada. Assim, ele aponta erros durante o desenvolvimento da aplicação enquanto o JavaScript não, portanto, você teria que esperar a compilação para saber.
 
 ## Banco: Postgre e Dynamo
 
