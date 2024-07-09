@@ -1,9 +1,8 @@
 package edu.dio.intro;
 /*
+
 Começa com a classe, as classes começam com Letra Maiscula e a cada palavra Maiscula novamente
 Link útil: https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes
-
-
 
 */
 public class Convencoes {
