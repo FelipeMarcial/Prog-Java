@@ -17,6 +17,7 @@
 ### Type Script
 A principal diferença é o fato do TypeScript ser uma linguagem tipada. Assim, ele aponta erros durante o desenvolvimento da aplicação enquanto o JavaScript não, portanto, você teria que esperar a compilação para saber.
 
+
 ## Banco: Postgre e Dynamo
 
 ## Infra: AWS cloud
