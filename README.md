@@ -9,7 +9,7 @@
 ## Backend: Spring Boot Framework
         
 ### Java
-    Java é a base para o Backend
+    Java é a base para o Backend. Aprender também os conceitos de Lambda e Method Reference para código mais limpo.
 
 ## Front: React Biblioteca / Frameork
     JavaScript, HTML e CSS são essenciais. O Type Script é um upgrade para o JavaScript.
